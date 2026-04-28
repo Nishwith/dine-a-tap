@@ -5,19 +5,19 @@ A full-stack, cashless smart canteen mobile application built with Flutter. Dine
 ## 📸 Application Previews
 
 <p align="center">
-  <img src="assets/UI/1.jpeg" width="250" alt="Dine-A-Tap Screen 1">
-  <img src="assets/UI/2.jpeg" width="250" alt="Dine-A-Tap Screen 2">
-  <img src="assets/UI/3.jpeg" width="250" alt="Dine-A-Tap Screen 3">
+  <img src="assets/UI/1.png" width="250" alt="Dine-A-Tap Screen 1">
+  <img src="assets/UI/2.png" width="250" alt="Dine-A-Tap Screen 2">
+  <img src="assets/UI/3.png" width="250" alt="Dine-A-Tap Screen 3">
 </p>
 <p align="center">
-  <img src="assets/UI/4.jpeg" width="250" alt="Dine-A-Tap Screen 4">
-  <img src="assets/UI/5.jpeg" width="250" alt="Dine-A-Tap Screen 5">
-  <img src="assets/UI/6.jpeg" width="250" alt="Dine-A-Tap Screen 6">
+  <img src="assets/UI/4.png" width="250" alt="Dine-A-Tap Screen 4">
+  <img src="assets/UI/5.png" width="250" alt="Dine-A-Tap Screen 5">
+  <img src="assets/UI/6.png" width="250" alt="Dine-A-Tap Screen 6">
 </p>
 <p align="center">
-  <img src="assets/UI/7.jpeg" width="250" alt="Dine-A-Tap Screen 7">
-  <img src="assets/UI/8.jpeg" width="250" alt="Dine-A-Tap Screen 8">
-  <img src="assets/UI/9.jpeg" width="250" alt="Dine-A-Tap Screen 9">
+  <img src="assets/UI/7.png" width="250" alt="Dine-A-Tap Screen 7">
+  <img src="assets/UI/8.png" width="250" alt="Dine-A-Tap Screen 8">
+  <img src="assets/UI/9.png" width="250" alt="Dine-A-Tap Screen 9">
 </p>
 
 ## 🚀 Key Features
