@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBC1EIuYzsmD7PkJ3Bh32j_ww5YStQ9R3w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>259824874046</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.autoinnotech.dineATap</string>
+	<key>PROJECT_ID</key>
+	<string>dine-a-tap</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dine-a-tap.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:259824874046:ios:997d3d88d82464bb37576f</string>
+</dict>
+</plist>

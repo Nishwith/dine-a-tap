@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259824874046",
+    "project_id": "dine-a-tap",
+    "storage_bucket": "dine-a-tap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259824874046:android:e44ba483d0e808d837576f",
+        "android_client_info": {
+          "package_name": "com.autoinnotech.dine_a_tap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvHeuiQa_KrCnizjQ1tNMoBorsVWGezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
